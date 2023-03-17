@@ -1,0 +1,24 @@
+{
+  "name": "Fastest-Discord-Nuke-Bot",
+  "version": "1.0.0",
+  "description": "| Presser |  | ------------- |  | ![Presser](https://media.discordapp.net/attachments/857096433948426280/871420730892517426/Screen_Shot_2021-08-01_at_8.24.45_PM.png?width=1557&height=808) |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Social404/Fastest-Discord-Nuke-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Social404/Fastest-Discord-Nuke-Bot/issues"
+  },
+  "homepage": "https://github.com/Social404/Fastest-Discord-Nuke-Bot#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^12.1.0"
+  }
+}
